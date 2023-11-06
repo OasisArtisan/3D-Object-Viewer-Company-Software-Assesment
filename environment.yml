@@ -1,0 +1,5 @@
+channels:
+  - default
+dependencies:
+  - python
+  - numpy
